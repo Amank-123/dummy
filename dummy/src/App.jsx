@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <div className="ticks">second</div>
+      <div className="ticks">third</div>
     </>
   );
 }
